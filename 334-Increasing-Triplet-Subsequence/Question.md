@@ -29,12 +29,12 @@ Special thanks to [@DjangoUnchained](https://leetcode.com/discuss/user/DjangoUnc
 
 <div>
 
-<div id="company_tags" class="btn btn-xs btn-warning">Show Company Tags</div>
+<div id="company_tags" class="btn btn-xs btn-warning">Hide Company Tags</div>
 
-<span class="hidebutton">[Facebook](/company/facebook/)</span></div>
+<span class="hidebutton" style="display: inline;">[Facebook](/company/facebook/)</span></div>
 
 <div>
 
-<div id="similar" class="btn btn-xs btn-warning">Show Similar Problems</div>
+<div id="similar" class="btn btn-xs btn-warning">Hide Similar Problems</div>
 
-<span class="hidebutton">[(M) Longest Increasing Subsequence](/problems/longest-increasing-subsequence/)</span></div>
+<span class="hidebutton" style="display: inline;">[(M) Longest Increasing Subsequence](/problems/longest-increasing-subsequence/)</span></div>
